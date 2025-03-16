@@ -1,0 +1,4 @@
+name: KafkaEvent
+version: 1.0
+main: arc.kafka.KafkaPlugin
+api-version: 1.20
